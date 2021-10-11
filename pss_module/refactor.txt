@@ -1,0 +1,11 @@
+отдельный модуль для логгинга
+ - log_request(request)
+заменить only_one и last на index
+сократить код ApiContainer.to_model()
+ - Endpoints.value формата url:, model:, rootkey:
+Alliance.division из id в Division
+кэшировать апи ключ в файлах
+добавить тайпхинты
+кэшировать дизайны
+переименовать api_models в model
+Ship.design из id в ShipDesign
